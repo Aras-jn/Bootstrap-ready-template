@@ -1,0 +1,79 @@
+ul {
+    color: aqua;
+}
+
+.img-fluid {
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+    color: black;
+    direction: rtl;
+    font-family: tahoma;
+}
+
+h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgoldenrod;
+    text-shadow: none;
+}
+
+.card-title {
+    text-align: center;
+    font-weight: bold;
+}
+
+a {
+    text-align: left;
+    color: blue;
+}
+
+hr {
+    background-color: silver;
+}
+
+li {
+    font-weight: bold;
+}
+
+.nav-link {
+    color: white;
+}
+
+h2 {
+    color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.content {
+    font-family: tahoma;
+}
+
+footer {
+    color: aqua;
+}
+
+.bi-instagram {
+    color: gainsboro;
+}
+
+.bi-telegram {
+    color: gainsboro;
+}
+
+.bi-telephone {
+    color: gainsboro;
+}
+
+strong {
+    color: gold;
+    font-size: large;
+}
+
+i {
+    font-size: larger;
+}
