@@ -1,2 +1,2 @@
 # Bootstrap-ready-template
-leran html &amp; css &amp; bootstrap
+html &amp; css &amp; bootstrap
